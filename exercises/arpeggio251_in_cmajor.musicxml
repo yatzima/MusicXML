@@ -124,11 +124,7 @@
         <key number="2" print-object="no">
           <fifths>0</fifths>
           </key>
-        <time number="1">
-          <beats>4</beats>
-          <beat-type>4</beat-type>
-          </time>
-        <time number="2" print-object="no">
+        <time>
           <beats>4</beats>
           <beat-type>4</beat-type>
           </time>
@@ -236,7 +232,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -253,7 +249,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -270,7 +266,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -287,7 +283,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -353,7 +349,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -370,7 +366,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -387,7 +383,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -404,7 +400,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -476,7 +472,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -493,7 +489,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -510,7 +506,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -527,7 +523,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -593,7 +589,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -610,7 +606,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -627,7 +623,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -644,7 +640,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -728,7 +724,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -745,7 +741,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -762,7 +758,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -779,7 +775,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -845,7 +841,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -862,7 +858,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -879,7 +875,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -896,7 +892,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -968,7 +964,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -985,7 +981,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1002,7 +998,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1019,7 +1015,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1085,7 +1081,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1102,7 +1098,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1119,7 +1115,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1136,7 +1132,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1220,7 +1216,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1237,7 +1233,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1254,7 +1250,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1271,7 +1267,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1337,7 +1333,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1354,7 +1350,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1371,7 +1367,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1388,7 +1384,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1460,7 +1456,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1477,7 +1473,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1494,7 +1490,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1511,7 +1507,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1577,7 +1573,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1594,7 +1590,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1611,7 +1607,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1628,7 +1624,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1712,7 +1708,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1729,7 +1725,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1746,7 +1742,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1763,7 +1759,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1829,7 +1825,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1846,7 +1842,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1863,7 +1859,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1880,7 +1876,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1952,7 +1948,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1969,7 +1965,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -1986,7 +1982,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -2003,7 +1999,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -2069,7 +2065,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -2086,7 +2082,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -2103,7 +2099,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
@@ -2120,7 +2116,7 @@
         <duration>1</duration>
         <voice>5</voice>
         <type>quarter</type>
-        <stem>none</stem>
+        <stem>down</stem>
         <staff>2</staff>
         <notations>
           <technical>
